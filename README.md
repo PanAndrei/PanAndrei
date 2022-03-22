@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Andrei, IOS developer.
+
+🔭 I’m currently working on my own projects, freelance projects and improove algorithm tasks.<br>
+🌱 I’m currently learning SWIFT and it's usage on ML & DL projects.<br>
+👯 I’m looking to collaborate on using SWIFT solving code challanges.<br>
+🤔 I’m trying to improove working with matrixes using SWIFT.<br>
+💬 I'm speaking english, parlo l'italiano, отвечу на русском.<br>
 
 <!--
 **PanAndrei/PanAndrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
