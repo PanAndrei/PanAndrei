@@ -8,6 +8,8 @@
 
 - my codesignal page: https://app.codesignal.com/profile/andrey_p_hc6
 - my leetcode page: https://leetcode.com/AndreyPan/
+- my codewars page: https://www.codewars.com/users/PanAndrei/stats
+- my codechef page: https://www.codechef.com/users/panandrei
 
 <!--
 **PanAndrei/PanAndrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
